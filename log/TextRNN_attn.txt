@@ -1,0 +1,43 @@
+2023-05-11 23:22:48,646 - my_logger - INFO - epoch:0, loss:0.7667
+2023-05-11 23:22:49,884 - my_logger - INFO - epoch:0, valid acc: 86.0333%, best valid acc: 86.0333, at epoch 0
+2023-05-11 23:23:01,457 - my_logger - INFO - epoch:1, loss:0.4467
+2023-05-11 23:23:12,747 - my_logger - INFO - epoch:2, loss:0.3835
+2023-05-11 23:23:25,705 - my_logger - INFO - epoch:2, valid acc: 89.3273%, best valid acc: 89.3273, at epoch 2
+2023-05-11 23:23:37,595 - my_logger - INFO - epoch:3, loss:0.3472
+2023-05-11 23:23:48,995 - my_logger - INFO - epoch:4, loss:0.3225
+2023-05-11 23:24:02,220 - my_logger - INFO - epoch:4, valid acc: 90.5892%, best valid acc: 90.5892, at epoch 4
+2023-05-11 23:24:13,383 - my_logger - INFO - epoch:5, loss:0.3048
+2023-05-11 23:24:24,344 - my_logger - INFO - epoch:6, loss:0.2904
+2023-05-11 23:24:37,465 - my_logger - INFO - epoch:6, valid acc: 91.0413%, best valid acc: 91.0413, at epoch 6
+2023-05-11 23:24:48,665 - my_logger - INFO - epoch:7, loss:0.2769
+2023-05-11 23:24:59,679 - my_logger - INFO - epoch:8, loss:0.2672
+2023-05-11 23:25:12,529 - my_logger - INFO - epoch:8, valid acc: 91.1155%, best valid acc: 91.1155, at epoch 8
+2023-05-11 23:25:23,538 - my_logger - INFO - epoch:9, loss:0.2578
+2023-05-11 23:25:34,364 - my_logger - INFO - epoch:10, loss:0.2494
+2023-05-11 23:25:47,490 - my_logger - INFO - epoch:10, valid acc: 91.6071%, best valid acc: 91.6071, at epoch 10
+2023-05-11 23:25:59,531 - my_logger - INFO - epoch:11, loss:0.2428
+2023-05-11 23:26:11,310 - my_logger - INFO - epoch:12, loss:0.2355
+2023-05-11 23:26:24,185 - my_logger - INFO - epoch:12, valid acc: 91.7506%, best valid acc: 91.7506, at epoch 12
+2023-05-11 23:26:36,374 - my_logger - INFO - epoch:13, loss:0.2310
+2023-05-11 23:26:47,889 - my_logger - INFO - epoch:14, loss:0.2249
+2023-05-11 23:26:48,740 - my_logger - INFO - epoch:14, valid acc: 91.6585%, best valid acc: 91.7506, at epoch 12
+2023-05-11 23:27:00,337 - my_logger - INFO - epoch:15, loss:0.2215
+2023-05-11 23:27:11,996 - my_logger - INFO - epoch:16, loss:0.2167
+2023-05-11 23:27:25,159 - my_logger - INFO - epoch:16, valid acc: 91.9372%, best valid acc: 91.9372, at epoch 16
+2023-05-11 23:27:36,828 - my_logger - INFO - epoch:17, loss:0.2119
+2023-05-11 23:27:48,233 - my_logger - INFO - epoch:18, loss:0.2078
+2023-05-11 23:27:49,099 - my_logger - INFO - epoch:18, valid acc: 91.7016%, best valid acc: 91.9372, at epoch 16
+2023-05-11 23:28:00,315 - my_logger - INFO - epoch:19, loss:0.2051
+2023-05-11 23:28:11,332 - my_logger - INFO - epoch:20, loss:0.2020
+2023-05-11 23:28:12,171 - my_logger - INFO - epoch:20, valid acc: 91.7566%, best valid acc: 91.9372, at epoch 16
+2023-05-11 23:28:23,338 - my_logger - INFO - epoch:21, loss:0.1984
+2023-05-11 23:28:34,470 - my_logger - INFO - epoch:22, loss:0.1957
+2023-05-11 23:28:35,307 - my_logger - INFO - epoch:22, valid acc: 91.8654%, best valid acc: 91.9372, at epoch 16
+2023-05-11 23:28:46,397 - my_logger - INFO - epoch:23, loss:0.1935
+2023-05-11 23:28:57,576 - my_logger - INFO - epoch:24, loss:0.1914
+2023-05-11 23:29:10,880 - my_logger - INFO - epoch:24, valid acc: 91.9468%, best valid acc: 91.9468, at epoch 24
+2023-05-11 23:29:22,229 - my_logger - INFO - epoch:25, loss:0.1869
+2023-05-11 23:29:33,250 - my_logger - INFO - epoch:26, loss:0.1855
+2023-05-11 23:29:34,080 - my_logger - INFO - epoch:26, valid acc: 91.8248%, best valid acc: 91.9468, at epoch 24
+2023-05-11 23:29:34,081 - my_logger - INFO - early stop!
+2023-05-11 23:29:50,324 - my_logger - INFO - test acc: 92.1095%
