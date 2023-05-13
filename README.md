@@ -4,6 +4,8 @@ Chinese text classification
 # Data
 [THUCNews](http://thuctc.thunlp.org/), total 740k titles, 14 classes, (train, valid, test) = (80%, 10%, 10%).
 
+pretrained word vector: [Sogou News Word+Character 300d](https://pan.baidu.com/s/1pUqyn7mnPcUmzxT64gGpSw)
+
 # Evaluation
 |Method|Test Acc(%)|
 |--|--|
