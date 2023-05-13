@@ -12,4 +12,5 @@ Chinese text classification
 |TextRNN|92.0473|
 |TextRNN with Attention|92.1095|
 |FastText|93.0688|
+|Transformer|88.1804|
 
