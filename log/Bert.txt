@@ -1,0 +1,7 @@
+2023-05-14 03:34:12,602 - my_logger - INFO - epoch:0, loss:0.2096
+2023-05-14 03:35:46,034 - my_logger - INFO - epoch:0, valid acc: 94.7277%, best valid acc: 94.7277, at epoch 0
+2023-05-14 04:07:29,703 - my_logger - INFO - epoch:1, loss:0.1351
+2023-05-14 04:09:06,854 - my_logger - INFO - epoch:1, valid acc: 94.8616%, best valid acc: 94.8616, at epoch 1
+2023-05-14 04:41:23,300 - my_logger - INFO - epoch:2, loss:0.1038
+2023-05-14 04:42:59,417 - my_logger - INFO - epoch:2, valid acc: 95.0123%, best valid acc: 95.0123, at epoch 2
+2023-05-14 04:44:48,813 - my_logger - INFO - test acc: 95.0590%

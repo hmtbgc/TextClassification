@@ -15,4 +15,5 @@ pretrained word vector: [Sogou News Word+Character 300d](https://pan.baidu.com/s
 |TextRNN with Attention|92.1095|
 |FastText|93.0688|
 |Transformer|88.1804|
+|Bert|95.0590|
 
